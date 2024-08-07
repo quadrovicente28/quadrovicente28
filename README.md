@@ -1,13 +1,4 @@
-<h2 align="left">
-  Hi 👋! My name is 
-  <span style="color: #1E90FF;">Joshua</span>
-  and I'm a 
-  <span style="color: #32CD32;">Full-stack Web Developer</span>, 
-  from 
-  <span style="color: #0000FF;">Ph</span>
-  <span style="color: #FF0000;">il</span>
-  <span style="color: #FFD700;">ippines</span>
-</h2>
+<h2 align="left">Hi 👋! My name is <span>Joshua</span> and I'm a <span>Full-stack Web Developer</span>, from Philippines</h2>
 
 ###
 
